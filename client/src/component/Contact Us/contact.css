@@ -1,0 +1,9 @@
+.contactlink{
+    background-color: #2b6777;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.contact-link a{
+    color: black;
+}
